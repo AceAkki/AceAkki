@@ -6,49 +6,48 @@ Welcome to my GitHub profile! I'm a passionate software developer from India, al
 
 ## 🔭 What I'm Working On
 
-- **Medical-Info-ver2**: An upgraded version of a medical information platform built with JavaScript.:contentReference[oaicite:2]{index=2}
+- **Medical-Info-ver2**: An upgraded version of a medical information platform built with JavaScript.
 
-- **Event-Register**: :contentReference[oaicite:4]{index=4}:contentReference[oaicite:6]{index=6}
+- **Event-Register**: : Event Register Landing Page with form and more
 
-- **Photography-Website**: :contentReference[oaicite:8]{index=8}:contentReference[oaicite:10]{index=10}
+- **Photography-Website**: :A visually appealing portfolio website tailored for photographers to showcase their work. Developed using HTML, CSS, and JavaScript, this platform offers features like image galleries, project showcases, and contact forms, enabling photographers to present their portfolios professionally.
 
-- **WA-Tools**: :contentReference[oaicite:12]{index=12}:contentReference[oaicite:14]{index=14}
+
+
+- **WA-Tools**: :  A suite of WhatsApp utilities created with HTML and JavaScript.
 
 ---
 
 ## 🌱 Currently Learning
 
-- :contentReference[oaicite:16]{index=16}:contentReference[oaicite:18]{index=18}
+- JavaScript
 
-- :contentReference[oaicite:20]{index=20}:contentReference[oaicite:22]{index=22}
+- Anime.js
 
-- :contentReference[oaicite:24]{index=24}:contentReference[oaicite:26]{index=26}
 
 ---
 
 ## 💬 Ask Me About
 
-- :contentReference[oaicite:28]{index=28}:contentReference[oaicite:30]{index=30}
+- **Web Development**: I'm passionate about building responsive and user-friendly websites using HTML, CSS, and JavaScript.
 
-- :contentReference[oaicite:32]{index=32}:contentReference[oaicite:34]{index=34}
-
-- :contentReference[oaicite:36]{index=36}:contentReference[oaicite:38]{index=38}
+- **JavaScript**: I'm passionate about building responsive and user-friendly websites using JavaScript.
 
 ---
 
 ## 📫 How to Reach Me
 
-- :contentReference[oaicite:40]{index=40}:contentReference[oaicite:42]{index=42}
+- Email: akshaypatil378@yahoo.com
 
-- :contentReference[oaicite:44]{index=44}:contentReference[oaicite:46]{index=46}
-
-- :contentReference[oaicite:48]{index=48}:contentReference[oaicite:50]{index=50}
+- LinkedIn: www.linkedin.com/in/akshay-patil-4603a847
 
 ---
 
 ## 🏆 GitHub Stats
 
 ![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AceAkki&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Akshay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AceAkki&theme=dark)
+
 
 ---
 
@@ -80,6 +79,12 @@ Welcome to my GitHub profile! I'm a passionate software developer from India, al
 ## 📈 GitHub Activity
 
 ![Akshay's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AceAkki&theme=github)
+![Akshay's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=AceAkki&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)
+![Akshay's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AceAkki&theme=onedark&column=3&margin-w=15&margin-h=15)
+![Visitor Count](https://profile-counter.glitch.me/AceAkki/count.svg)
+
+![Akshay's Snap Changelog](https://www.gitclear.com/github_profile_dynamic_readme_free)
+
 
 ---
 
