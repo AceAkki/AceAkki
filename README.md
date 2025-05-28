@@ -46,7 +46,6 @@ Welcome to my GitHub profile! I'm a passionate software developer from India, al
 ## 🏆 GitHub Stats
 
 ![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AceAkki&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![Akshay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AceAkki&theme=dark)
 
 
 ---
@@ -54,36 +53,14 @@ Welcome to my GitHub profile! I'm a passionate software developer from India, al
 ## 💼 Skills & Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
 ---
 
-## 📚 Blog Posts
+## Visitor Count
 
-- [How to Optimize Your React Applications](https://your-blog-link.com/react-optimization)
-- [JavaScript Tips and Tricks](https://your-blog-link.com/js-tips)
-
----
-
-## 🎨 Hobbies & Interests
-
-- :contentReference[oaicite:52]{index=52}
-- :contentReference[oaicite:55]{index=55}
-- :contentReference[oaicite:58]{index=58}:contentReference[oaicite:60]{index=60}
-
----
-
-## 📈 GitHub Activity
-
-![Akshay's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AceAkki&theme=github)
-![Akshay's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=AceAkki&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)
-![Akshay's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AceAkki&theme=onedark&column=3&margin-w=15&margin-h=15)
 ![Visitor Count](https://profile-counter.glitch.me/AceAkki/count.svg)
-
-![Akshay's Snap Changelog](https://www.gitclear.com/github_profile_dynamic_readme_free)
 
 
 ---
