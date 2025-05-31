@@ -6,15 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer from India, al
 
 ## 🔭 What I'm Working On
 
-- **Medical-Info-ver2**: An upgraded version of a medical information platform built with JavaScript.
-
 - **Event-Register**: : Event Register Landing Page with form and more
-
-- **Photography-Website**: :A visually appealing portfolio website tailored for photographers to showcase their work. Developed using HTML, CSS, and JavaScript, this platform offers features like image galleries, project showcases, and contact forms, enabling photographers to present their portfolios professionally.
-
-
-
-- **WA-Tools**: :  A suite of WhatsApp utilities created with HTML and JavaScript.
 
 ---
 
