@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software developer from India, al
 
 ## 🌱 Currently Learning
 
-- JavaScript
+- JavaScript (Advances Concepts)
 
 - Anime.js
 
