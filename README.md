@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Akshay P (A-K-SHA-Y)
+👋 Hi there, I'm Akshay P (A-K-SHA-Y)
 
 Welcome to my GitHub profile! I'm a passionate software developer from Earth, always eager to learn and build impactful projects. Here's a glimpse into what I do.
 
