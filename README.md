@@ -39,7 +39,6 @@ Welcome to my GitHub profile! I'm a passionate software developer from Earth, al
 
 ## 🏆 GitHub Stats
 
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AceAkki&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 ![AceAkki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AceAkki&show_icons=true&theme=github_dark&hide_border=true)
 
 ---
