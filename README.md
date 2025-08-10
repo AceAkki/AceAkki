@@ -58,4 +58,7 @@ Welcome to my GitHub profile! I'm a passionate software developer from Earth, al
 
 ---
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AceAkki&theme=github-dark&hide_border=true)
+
+
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on a project or discuss new ideas!
