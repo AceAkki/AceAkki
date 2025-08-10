@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm a passionate software developer from Earth, al
 - **Event-Register**: : Event Register Landing Page with form and more
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceAkki&layout=compact&theme=github_dark&hide_border=true)
+
 
 ## 🌱 Currently Learning
 
