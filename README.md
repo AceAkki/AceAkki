@@ -60,9 +60,7 @@ Welcome to my GitHub profile! I'm a passionate software developer from Earth, al
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AceAkki&theme=github-dark&hide_border=true)
 
-| GitHub Stats | Top Languages | Streak |
-|--------------|----------------|--------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=AceAkki&show_icons=true&theme=github-dark&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceAkki&layout=compact&theme=github-dark&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=AceAkki&theme=github-dark&hide_border=true) |
+
 
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on a project or discuss new ideas!
