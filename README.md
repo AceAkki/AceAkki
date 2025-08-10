@@ -49,11 +49,13 @@ Welcome to my GitHub profile! I'm a passionate software developer from Earth, al
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ---
 
 ## Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/AceAkki/count.svg)
+
 
 
 ---
