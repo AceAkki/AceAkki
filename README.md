@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate software developer from Earth, al
 
 ## 🌱 Currently Learning
 
-- JavaScript (Advances Concepts)
+- JavaScript (Advanced Concepts)
 
 - Anime.js
 
@@ -53,12 +53,6 @@ Welcome to my GitHub profile! I'm a passionate software developer from Earth, al
 
 ---
 
-## Visitor Count
-
-
-
-
----
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AceAkki&theme=github-dark&hide_border=true)
 
