@@ -21,14 +21,6 @@ Welcome to my GitHub profile! I'm a passionate software developer from Earth, al
 
 ---
 
-## 💬 Ask Me About
-
-- **Web Development**: I'm passionate about building responsive and user-friendly websites using HTML, CSS, and JavaScript.
-
-- **JavaScript**: I'm passionate about building responsive and user-friendly websites using JavaScript.
-
----
-
 ## 📫 How to Reach Me
 
 - Email: akshaypatil378@yahoo.com
