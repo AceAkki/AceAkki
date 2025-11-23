@@ -6,7 +6,7 @@ Welcome to my GitHub  profile! I'm a passionate web developer from Earth, always
 
 ## 🔭 What I'm Working On
 
-- **Event-Register**: : Event Register Landing Page with form and more
+- **React Projects**: : 
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceAkki&layout=compact&theme=github_dark&hide_border=true)
@@ -14,6 +14,8 @@ Welcome to my GitHub  profile! I'm a passionate web developer from Earth, always
 
 ## 🌱 Currently Learning
 
+- React
+  
 - JavaScript (Advanced Concepts)
 
 - Anime.js
