@@ -6,7 +6,7 @@ Welcome to my GitHub  profile! I'm a passionate web developer from Earth, always
 
 ## 🔭 What I'm Working On
 
-- **React Projects**: : 
+- **React Projects**: : chef AI 
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceAkki&layout=compact&theme=github_dark&hide_border=true)
@@ -39,6 +39,8 @@ Welcome to my GitHub  profile! I'm a passionate web developer from Earth, always
 
 ## 💼 Skills & Technologies
 
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
