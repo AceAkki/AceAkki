@@ -51,7 +51,7 @@ Welcome to my GitHub  profile! I'm a passionate web developer from Earth, always
 ---
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AceAkki&theme=github-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AceAkki&theme=hacker&hide_border=true)
 
 
 
