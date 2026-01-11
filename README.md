@@ -35,7 +35,6 @@ Welcome to my GitHub  profile! I'm a passionate web developer from Earth, always
 
 ![AceAkki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AceAkki&show_icons=true&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aceakki&theme=dark)
 
 ---
 
