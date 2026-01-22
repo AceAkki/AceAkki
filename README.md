@@ -15,7 +15,9 @@ Welcome to my GitHub  profile! I'm a passionate web developer from Earth, always
 ## 🌱 Currently Learning
 
 - React
-  
+
+- TypeScript
+
 - JavaScript (Advanced Concepts)
 
 - Anime.js
