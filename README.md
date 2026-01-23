@@ -1,12 +1,11 @@
 # 👋 Hi there, I'm Akshay R (A-K-SHA-Y)
-  
-Welcome to my GitHub  profile! I'm a passionate web developer from Earth, always eager to learn and build impactful projects. Here's a glimpse into what I do.
+I'm a web developer from Earth 🌍 who enjoys building meaningful web experiences. I’m always exploring new tools, improving my skills, and turning ideas into real, usable projects. Here’s a snapshot of what I do.
 
 ---
 
 ## 🔭 What I'm Working On
 
-- **React Projects**: : letsPlayTrivia
+- **letsPlayTrivia** — a React-based project focused on interactive trivia experiences
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceAkki&layout=compact&theme=github_dark&hide_border=true)
@@ -22,20 +21,14 @@ Welcome to my GitHub  profile! I'm a passionate web developer from Earth, always
 
 - Anime.js
 
-![React](https://img.shields.io/badge/React-In%20Progress-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-In%20Progress-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Deep%20Dive-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Anime.js](https://img.shields.io/badge/Anime.js-Experimenting-FF4F8B?style=for-the-badge)
-
-
 
 ---
 
 ## 📫 How to Reach Me
 
-- Email: akshaypatil378@yahoo.com
+- 📧 **Email:** akshaypatil378@yahoo.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/akshay-patil-4603a847
 
-- LinkedIn: www.linkedin.com/in/akshay-patil-4603a847
 
 ---
 
