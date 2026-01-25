@@ -11,13 +11,13 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceAkki&layout=compact&theme=github_dark&hide_border=true)
 
 
-## 🌱 Currently Learning
+## 🌱 Currently Improving
 
 - React
 
 - TypeScript
 
-- JavaScript (Advanced Concepts)
+- Advanced JavaScript 
 
 - Anime.js
 
