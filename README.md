@@ -11,7 +11,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceAkki&layout=compact&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceAkki&layout=compact&theme=radical)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=YOUR_USERNAME&theme=2077)
 
 ## 🌱 Currently Improving
 
