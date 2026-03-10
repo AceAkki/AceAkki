@@ -6,7 +6,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 ## 🔭 What I'm Working On
 
 - **ecomCart** - a React-Based project
-- 
+
 - **personalDashboard** - a React-Based project
 
 - **letsPlayTrivia** — a React-based project focused on interactive trivia experiences
