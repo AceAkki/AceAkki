@@ -5,7 +5,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 ## 🔭 What I'm Working On
 
-- **ecomCart** - a React-Based project
+- **ecomCart** - ecommerce project - React-Based project 
 
 - **personalDashboard** - a React-Based project
 
