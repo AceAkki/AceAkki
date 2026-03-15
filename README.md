@@ -9,7 +9,6 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 - **personalDashboard** - a React-Based project
 
-- **letsPlayTrivia** — a React-based project focused on interactive trivia experiences
 
 ---
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AceAkki&layout=compact&theme=radical)
