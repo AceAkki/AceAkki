@@ -5,9 +5,9 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 ## 🔭 What I'm Working On
 
-- **ecomCart** - ecommerce project based in react and typescript
+- **ecomCart** - A robust e-commerce platform built with React and TypeScript. Using TanStack Query for efficient server-state management, caching, and seamless data fetching.
 
-- **personalDashboard** - a React-Based project
+- **personalDashboard** - A custom React workspace. Implementing dynamic layouts and local storage persistence to create a highly performant, personalized productivity suite.
 
 
 ---
