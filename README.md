@@ -19,10 +19,6 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 - TypeScript
 
-- Advanced JavaScript 
-
-- Anime.js
-
 
 ---
 
