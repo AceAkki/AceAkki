@@ -5,7 +5,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 ## 🔭 What I'm Working On
 
-- **ecomCart** - A robust e-commerce platform built with React and TypeScript. Using TanStack Query for efficient server-state management, caching, and seamless data fetching. And Zustand to sync fetched data and smoother operations.
+- **ecomCart** - A robust e-commerce platform built with React and TypeScript. Using TanStack Query for efficient server-state management, caching, and seamless data fetching while utilizing Zustand to synchronize data and ensure fluid client-side operations.
 
 - **personalDashboard** - A custom React workspace. Implementing dynamic layouts and local storage persistence with Zustand to create a highly performant, personalized productivity suite.
 
