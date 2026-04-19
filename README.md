@@ -8,7 +8,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,nodejs,react,express,html,css,bootstrap,regex,androidstudio,github,git,netlify,replit,npm,vite,postman,figma,ps,notion,visualstudio,vscode&perline=11)](https://skillicons.dev)
 
 
-## 🔭 What I'm Working On
+## What I'm Working On
 
 - **ecomCart** - A robust e-commerce platform built with React and TypeScript. Using TanStack Query for efficient server-state management, caching, and seamless data fetching while utilizing Zustand to synchronize data and ensure fluid client-side operations.
 
@@ -18,7 +18,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 ---
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AceAkki&layout=compact&theme=radical)
 
-## 🌱 Currently Improving
+##  Currently Improving
 
 - React
 
@@ -27,7 +27,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 ---
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
 - 📧 **Email:** akshaypatil378@yahoo.com  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/akshay-patil-4603a847
@@ -35,14 +35,14 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 ---
 
-## 🏆 GitHub Stats
+##  GitHub Stats
 
 ![AceAkki's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AceAkki&show_icons=true&theme=radical)
 
 
 ---
 
-## 💼 Skills & Technologies
+## Skills & Technologies
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
