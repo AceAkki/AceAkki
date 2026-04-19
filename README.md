@@ -1,8 +1,4 @@
-█████  ██   ██  ██████ ██   ██  █████  ██    ██     ██████  
-██   ██ ██  ██  ██      ██   ██ ██   ██  ██  ██      ██   ██ 
-███████ █████    █████  ███████ ███████   ████       ██████  
-██   ██ ██  ██       ██ ██   ██ ██   ██    ██        ██   ██ 
-██   ██ ██   ██ ██████  ██   ██ ██   ██    ██        ██   ██
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 I'm a web developer from Earth 🌍 who enjoys building meaningful web experiences. I’m always exploring new tools, improving my skills, and turning ideas into real, usable projects. Here’s a snapshot of what I do.
 
