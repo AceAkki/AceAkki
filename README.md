@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Akshay R (A-K-SHA-Y)
+
 I'm a web developer from Earth 🌍 who enjoys building meaningful web experiences. I’m always exploring new tools, improving my skills, and turning ideas into real, usable projects. Here’s a snapshot of what I do.
 
 ---
