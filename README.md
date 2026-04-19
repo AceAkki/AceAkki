@@ -5,7 +5,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 ---
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=regex,github,git,js,nodejs,react,express,html,css,bootstrap,androidstudio,figma,ps,notion&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=regex,github,git,js,nodejs,react,express,html,css,bootstrap,androidstudio,figma,ps,notion&perline=6)](https://skillicons.dev)
 
 
 ## 🔭 What I'm Working On
