@@ -4,6 +4,10 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 ---
 
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=regex,github,git,js,nodejs,react,express,html,css,bootstrap,androidstudio,ps,notion)](https://skillicons.dev)
+
+
 ## 🔭 What I'm Working On
 
 - **ecomCart** - A robust e-commerce platform built with React and TypeScript. Using TanStack Query for efficient server-state management, caching, and seamless data fetching while utilizing Zustand to synchronize data and ensure fluid client-side operations.
