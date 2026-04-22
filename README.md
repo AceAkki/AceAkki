@@ -24,15 +24,22 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 ![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio)
 
 
-## 🛠️ Technical Stack
+# Main Skills
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![Frontend](https://skillicons.dev/icons?i=ts,react,js,jquery,html,css,bootstrap) |
-| **Backend & Cloud** | ![Backend](https://skillicons.dev/icons?i=nodejs,firebase) |
-| **DevOps & Tools** | ![Tools](https://skillicons.dev/icons?i=git,github,npm,vite,netlify,replit,postman,regex) |
-| **Design & Workflow** | ![Design](https://skillicons.dev/icons?i=figma,ps,notion) |
-| **Environments** | ![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio) |
+#### Frontend Development
+[![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+
+#### Backend & Cloud
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/) [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+
+#### Development Tools & Deployment
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) [![NPM](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/) [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/) [![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/) [![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/) [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![Regex](https://skillicons.dev/icons?i=regex)](https://regexr.com/)
+
+#### Design & Workflow
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) [![PS](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html) [![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/)
+
+#### IDEs & Environments
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/) [![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 
 
 ## What I'm Working On
