@@ -5,7 +5,20 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 ---
 
 ### Main skills
-![My Skills](https://skillicons.dev/icons?i=js,jquery,nodejs,react,express,html,css,bootstrap,regex,androidstudio,github,git,netlify,replit,npm,vite,postman,figma,ps,notion,visualstudio,vscode&perline=11)
+## Frontend Development
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,jquery&perline=7)
+
+## Backend & Cloud
+![Backend](https://skillicons.dev/icons?i=nodejs,firebase&perline=2)
+
+### 🛠️ Development Tools & Deployment
+![Tools](https://skillicons.dev/icons?i=git,github,npm,vite,netlify,replit,postman,regex)
+
+### 🎨 Design & Workflow
+![Design](https://skillicons.dev/icons?i=figma,ps,notion)
+
+### 💻 IDEs & Environments
+![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio)
 
 
 ## What I'm Working On
