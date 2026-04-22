@@ -4,8 +4,8 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 ---
 
-### Main skills
-## Frontend Development
+# Main skills
+#### Frontend Development
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,jquery&perline=7)
 
 ## Backend & Cloud
