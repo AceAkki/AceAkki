@@ -8,16 +8,16 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 #### Frontend Development
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,jquery&perline=7)
 
-## Backend & Cloud
+#### Backend & Cloud
 ![Backend](https://skillicons.dev/icons?i=nodejs,firebase&perline=2)
 
-### 🛠️ Development Tools & Deployment
+#### Development Tools & Deployment
 ![Tools](https://skillicons.dev/icons?i=git,github,npm,vite,netlify,replit,postman,regex)
 
-### 🎨 Design & Workflow
+#### Design & Workflow
 ![Design](https://skillicons.dev/icons?i=figma,ps,notion)
 
-### 💻 IDEs & Environments
+#### IDEs & Environments
 ![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio)
 
 
