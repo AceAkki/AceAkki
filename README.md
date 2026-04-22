@@ -20,6 +20,19 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 #### IDEs & Environments
 ![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio)
 
+# 🛠️ Technical Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,regex) |
+| **Frontend** | ![My Skills](https://skillicons.dev/icons?i=react,bootstrap,jquery) |
+| **Backend** | ![My Skills](https://skillicons.dev/icons?i=nodejs,firebase) |
+| **Tools** | ![My Skills](https://skillicons.dev/icons?i=git,github,npm,vite,postman) |
+| **Design** | ![My Skills](https://skillicons.dev/icons?i=figma,ps,notion) |
+| **Deployment**| ![My Skills](https://skillicons.dev/icons?i=netlify,replit) |
+| **IDEs** | ![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio) |
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## What I'm Working On
 
