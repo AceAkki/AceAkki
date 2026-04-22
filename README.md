@@ -4,7 +4,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 ---
 
-# Main skills
+# Main Skills
 #### Frontend Development
 ![Frontend](https://skillicons.dev/icons?i=ts,react,js,jquery,html,css,bootstrap&perline=7)
 
