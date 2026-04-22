@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,;I'm+Akshay+R+(A-K-SHA-Y))](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Akshay+R;Web+Developer+|+React+Enthusiast&center=true&width=500&height=50">
 </div>
@@ -22,6 +22,17 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 #### IDEs & Environments
 ![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio)
+
+
+## 🛠️ Technical Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![Frontend](https://skillicons.dev/icons?i=ts,react,js,jquery,html,css,bootstrap) |
+| **Backend & Cloud** | ![Backend](https://skillicons.dev/icons?i=nodejs,firebase) |
+| **DevOps & Tools** | ![Tools](https://skillicons.dev/icons?i=git,github,npm,vite,netlify,replit,postman,regex) |
+| **Design & Workflow** | ![Design](https://skillicons.dev/icons?i=figma,ps,notion) |
+| **Environments** | ![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio) |
 
 
 ## What I'm Working On
