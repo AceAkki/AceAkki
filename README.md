@@ -8,23 +8,6 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 ---
 
 # Main Skills
-#### Frontend Development
-![Frontend](https://skillicons.dev/icons?i=ts,react,js,jquery,html,css,bootstrap&perline=7)
-
-#### Backend & Cloud
-![Backend](https://skillicons.dev/icons?i=nodejs,firebase&perline=2)
-
-#### Development Tools & Deployment
-![Tools](https://skillicons.dev/icons?i=git,github,npm,vite,netlify,replit,postman,regex)
-
-#### Design & Workflow
-![Design](https://skillicons.dev/icons?i=figma,ps,notion)
-
-#### IDEs & Environments
-![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio)
-
-
-# Main Skills
 
 #### Frontend Development
 [![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
