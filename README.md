@@ -48,13 +48,6 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 ---
 
-##  How to Reach Me
-
-- 📧 **Email:** akshaypatil378@yahoo.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/akshay-patil-4603a847
-
-
----
 
 ##  GitHub Stats
 
