@@ -61,7 +61,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 ---
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AceAkki&theme=hacker&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AceAkki&theme=hacker&hide_border=true&card_width-900)
 
 
 
