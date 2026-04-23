@@ -48,10 +48,16 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 ---
 
-
-##  GitHub Stats
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AceAkki&theme=dracula)
-![AceAkki's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AceAkki&show_icons=true&theme=dracula)
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AceAkki&theme=dracula&layout=compact&hide_border=true" height="165px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=AceAkki&show_icons=true&theme=dracula&hide_border=true" height="165px" />
+    </td>
+  </tr>
+</table>
 
 
 [![AceAkki's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AceAkki&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
