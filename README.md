@@ -37,7 +37,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 
 ---
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AceAkki&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AceAkki&layout=compact&theme=dark)
 
 ##  Currently Improving
 
