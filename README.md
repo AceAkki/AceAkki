@@ -54,7 +54,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 ![AceAkki's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AceAkki&show_icons=true&theme=radical)
 
 
-[![AceAkki's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AceAkki&theme=hacker)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AceAkki's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AceAkki&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
