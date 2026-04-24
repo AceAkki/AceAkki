@@ -6,6 +6,7 @@
 I'm a web developer from Earth 🌍 who enjoys building meaningful web experiences. I’m always exploring new tools, improving my skills, and turning ideas into real, usable projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-patil-4603a847)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypatil378@yahoo.com)
 </div>
 
@@ -29,7 +30,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/) [![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 
 
-## What I'm Working On
+# What I'm Working On
 
 - **ecomCart** - A robust e-commerce platform built with React and TypeScript. Using TanStack Query for efficient server-state management, caching, and seamless data fetching while utilizing Zustand to synchronize data and ensure fluid client-side operations.
 
@@ -39,7 +40,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 ---
 
 
-##  Currently Improving
+#  Currently Improving
 
 - React
 
@@ -49,7 +50,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 ---
 
 
-## Github Stats
+# Github Stats
 <table border="0">
   <tr>
     <td>
