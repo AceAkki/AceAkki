@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Akshay+R;React+Developer+|&center=true&width=500&height=90">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there;A+Passionate+React+Developer;TypeScript+%26+Node.js+Enthusiast;Building+meaningful+web+experiences&center=true&width=500&height=90">
 
   
 I'm a web developer from Earth 🌍 who enjoys building meaningful web experiences. I’m always exploring new tools, improving my skills, and turning ideas into real, usable projects.
