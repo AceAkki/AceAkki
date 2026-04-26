@@ -25,8 +25,9 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 #### IDEs & Environments
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/) [![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 
+---
 
-# What I'm Working On
+## What I'm Working On
 
 - **ecomCart** - A robust e-commerce platform built with React and TypeScript. Using TanStack Query for efficient server-state management, caching, and seamless data fetching while utilizing Zustand to synchronize data and ensure fluid client-side operations.
 
