@@ -3,9 +3,7 @@
   
 I'm a web developer from Earth 🌍 who enjoys building meaningful web experiences. I’m always exploring new tools, improving my skills, and turning ideas into real, usable projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-patil-4603a847)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypatil378@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-patil-4603a847)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypatil378@yahoo.com)
 </div>
 
 ---
