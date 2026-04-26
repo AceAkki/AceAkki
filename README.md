@@ -8,7 +8,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 
 ---
 
-# Main Skills
+## Main Skills
 
 #### Frontend Development
 [![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
@@ -36,7 +36,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 ---
 
 
-#  Currently Improving
+##  Currently Improving
 
 - React
 
@@ -46,7 +46,7 @@ I'm a web developer from Earth 🌍 who enjoys building meaningful web experienc
 ---
 
 
-# Github Stats
+## Github Stats
 <table border="0">
   <tr>
     <td>
