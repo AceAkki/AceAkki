@@ -70,6 +70,5 @@ I’m always exploring new tools, improving my skills, and turning ideas into re
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aceakki&theme=hacker&card_width=900&card_height=199)](https://git.io/streak-stats)
 
 
-===
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on a project or discuss new ideas!
