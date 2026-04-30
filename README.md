@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=61DBFB&center=true&vCenter=true&width=900&height=100&lines=Hi+there,+I'm+Akshay+R;A+Passionate+React+Developer;TypeScript+%26+Node.js+Enthusiast;Building+meaningful+web+experiences" alt="Typing SVG" />
   
 I'm a web developer from Earth 🌍 who enjoys building meaningful web experiences. 
+
 I’m always exploring new tools, improving my skills, and turning ideas into real, usable projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-patil-4603a847) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypatil378@yahoo.com)
