@@ -31,6 +31,8 @@ I’m always exploring new tools, improving my skills, and turning ideas into re
 
 ## What I'm Working On
 
+- **inviteWebsite** - Built with React and TypeScript.
+- 
 - **ecomCart** - A robust e-commerce platform built with React and TypeScript. Using TanStack Query for efficient server-state management, caching, and seamless data fetching while utilizing Zustand to synchronize data and ensure fluid client-side operations.
 
 - **personalDashboard** - A custom React workspace. Implementing dynamic layouts and local storage persistence with Zustand to create a highly performant, personalized productivity suite.
