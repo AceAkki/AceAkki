@@ -34,8 +34,6 @@ With expertise in React, TypeScript, and JavaScript, I build scalable, user-focu
 
 ## What I'm Working On
 
-- **inviteWebsite** - React based invite page
-
 - **ecomCart** - A robust e-commerce platform built with React and TypeScript. Using TanStack Query for efficient server-state management, caching, and seamless data fetching while utilizing Zustand to synchronize data and ensure fluid client-side operations.
 
 ---
