@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=61DBFB&center=true&vCenter=true&width=900&height=100&lines=Hi+there,+I'm+Akshay+R;A+Passionate+React+Developer;TypeScript+%26+Node.js+Enthusiast;Building+meaningful+web+experiences" alt="Typing SVG" />
   
 With expertise in React, TypeScript, and JavaScript, I build scalable, user-focused applications that solve real problems.
-
 I'm constantly exploring new tools and techniques to improve my craft, and I love turning ideas into real, usable projects that make an impact.
 
 
