@@ -14,7 +14,7 @@ I'm constantly exploring new tools and techniques to improve my craft.
 ## Main Skills
 
 #### Frontend Development
-[![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/) [![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 
 
 #### Backend & Cloud
