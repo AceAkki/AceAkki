@@ -3,6 +3,7 @@
 
 I try to have some fun by turning ideas into real, usable projects that make an impact.
 I have expertise React, TypeScript, and JavaScript.I build scalable, user-focused applications that solve real problems.
+
 I'm constantly exploring new tools and techniques to improve my craft.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-patil-4603a847) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypatil378@yahoo.com)
