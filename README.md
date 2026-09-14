@@ -22,6 +22,8 @@ I'm constantly exploring new tools and techniques to improve my craft.
 
 ## What I'm Currently Working On
 
+= **pokedexApp** - Building an android app with React Native.
+
 - **ecomCart** - A robust e-commerce platform built with React and TypeScript. Using TanStack Query for efficient server-state management, caching, and seamless data fetching while utilizing Zustand to synchronize data and ensure fluid client-side operations.
 
 ---
