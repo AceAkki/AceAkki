@@ -22,7 +22,7 @@ I'm constantly exploring new tools and techniques to improve my craft.
 
 ## What I'm Currently Working On
 
-- **pokedexApp** - An android app based in React Native. Using Pokeapi. 
+- **pokedexApp** - An android app based in React Native. Using pokeapi.co to fetch pokemon data and display is in user-friendly manner. 
 
 - **ecomCart** - A robust e-commerce platform built with React and TypeScript. Using TanStack Query for efficient server-state management, caching, and seamless data fetching while utilizing Zustand to synchronize data and ensure fluid client-side operations.
 
