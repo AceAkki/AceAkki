@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=61DBFB&center=true&vCenter=true&width=900&height=100&lines=Hi+there,+I'm+Akshay+R;A+Passionate+React+Developer;TypeScript+%26+Node.js+Enthusiast;Building+meaningful+web+experiences" alt="Typing Sentence SVG" />
 
 I try to have some fun by turning ideas into real, usable projects that make an impact.
