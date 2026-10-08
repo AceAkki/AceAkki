@@ -22,6 +22,8 @@ I'm constantly exploring new tools and techniques to improve my craft.
 
 ## What I'm Currently Working On
 
+- **dashboardApp** - Converting my dashboard web app to react native.
+
 - **pokedexApp** - An android app based in React Native. Using pokeapi.co to fetch pokemon data and display is in user-friendly manner. 
 
 
