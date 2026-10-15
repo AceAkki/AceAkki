@@ -4,6 +4,7 @@
 I try to have some fun by turning ideas into real, usable projects that make an impact. 
 I have expertise React, TypeScript, and JavaScript. Currently improving my React Native skills. 
 I build scalable, user-focused applications that solve real problems.
+
 I'm constantly exploring new tools and techniques to improve my craft.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-patil-4603a847) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypatil378@yahoo.com)
@@ -23,7 +24,7 @@ I'm constantly exploring new tools and techniques to improve my craft.
 
 ## What I'm Currently Working On
 
-- **dashboardApp** - Converting my dashboard web app to react native, initiated base version for the project with basics and android config completed for dev build
+- **dashboardApp** - Converting my dashboard web app to react native, initiated base version for the project with basics and android config completed for dev build. Dev Build config completed. 
 
 - **pokedexApp** - An android app based in React Native. Using pokeapi.co to fetch pokemon data and display is in user-friendly manner. 
 
