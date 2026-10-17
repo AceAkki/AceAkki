@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:61DBFB&height=220&section=header&text=Akshay%20R&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20React%20Native&descAlignY=58&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:02060a,45:0b3d2e,100:00ff9c&height=240&section=header&text=AKSHAY%20R&fontSize=72&fontColor=00ff9c&stroke=00ff9c&strokeWidth=1&animation=twinkling&fontAlignY=40&desc=%5B%20REACT%20%2F%2F%20TYPESCRIPT%20%2F%2F%20REACT%20NATIVE%20%5D&descAlignY=62&descSize=18&descColor=ffffff" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&height=60&lines=%24+sudo+become+%22Full+Stack+Hero%22;ctOS+access+granted+%E2%9C%94;One+commit%2C+one+bug+down+%F0%9F%92%A5;Debugging+reality%2C+one+commit+at+a+time;Hello%2C+world.+Hello%2C+friend." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&pause=900&color=00FF9C&center=true&vCenter=true&width=800&height=60&lines=%3E+scanning+profile...;%3E+NAME%3A+Akshay+R;%3E+OCCUPATION%3A+React+%26+TypeScript+Developer;%3E+SKILL+LEVEL%3A+leveling+up+in+React+Native;%3E+THREAT+LEVEL%3A+only+to+bugs;%3E+ACCESS+GRANTED+%E2%9C%94" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AceAkki&color=00ff9c&style=for-the-badge&label=SYSTEM+ACCESSES)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-patil-4603a847)
@@ -167,13 +167,33 @@ An Android app that pulls data from pokeapi.co and presents Pokemon info in a cl
 <img src="./assets/your-image.png" width="400" alt="..." />
 -->
 
-### 🌐 Connected city (Watch Dogs mode)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:02060a,100:0b3d2e&height=55&section=header&text=CITY%20PROFILER%20//%20SCAN%20COMPLETE&fontSize=20&fontColor=00ff9c&animation=twinkling" width="100%" alt="profiler banner" />
 
-<div align="center">
-  <img src="./city-network.svg" alt="Connected city network" width="100%" />
-</div>
+```text
+┌─ TARGET PROFILE ─────────────────────────────
+│ NAME ........ Akshay R
+│ OCCUPATION .. Frontend & Mobile Developer
+│ TOP SKILLS .. React · TypeScript · React Native
+│ CURRENT OP .. Porting dashboard to mobile
+│ WEAKNESS .... Anime, coffee, "one more commit"
+│ RISK LEVEL .. LOW  (to humans)
+│               EXTREME (to bugs)
+└─ SOURCE: public repos · status: friendly ─────
+```
 
-Every system is a network, so I design with security, privacy, and clean data flow in mind.
+```text
+ ░░▒▒▓▓ NETWORK TRACE ▓▓▒▒░░
+
+  [you] ──► [my profile] ──► [my repos] ──► [collab?]
+                                  │
+                                  └──► React · TS · RN · Node
+```
+
+Everything is connected, so I build with security, privacy, and clean data flow in mind.
+
+<!-- Add your own Watch Dogs image/GIF here by URL if you want official media:
+<img src="https://YOUR_IMAGE_URL" width="100%" alt="..." />
+-->
 
 ---
 
@@ -208,6 +228,6 @@ $ connection established...
 $ status: ready to build something great.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DBFB,50:00ff9c,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00ff9c,55:0b3d2e,100:02060a&height=140&section=footer&text=CONNECTION%20TERMINATED&fontSize=22&fontColor=00ff9c&animation=twinkling&fontAlignY=70" width="100%" alt="footer" />
 
 </div>
