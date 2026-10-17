@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:61DBFB&height=220&section=header&text=Akshay%20R&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20React%20Native&descAlignY=58&descSize=20" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&height=60&lines=%24+sudo+become+%22Full+Stack+Hero%22;ctOS+access+granted+%E2%9C%94;Plus+Ultra%21+Going+beyond+my+limits+%F0%9F%92%A5;Debugging+reality%2C+one+commit+at+a+time;Hello%2C+world.+Hello%2C+friend." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&height=60&lines=%24+sudo+become+%22Full+Stack+Hero%22;ctOS+access+granted+%E2%9C%94;One+commit%2C+one+bug+down+%F0%9F%92%A5;Debugging+reality%2C+one+commit+at+a+time;Hello%2C+world.+Hello%2C+friend." alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AceAkki&color=00ff9c&style=for-the-badge&label=SYSTEM+ACCESSES)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-patil-4603a847)
@@ -134,7 +134,10 @@ An Android app that pulls data from pokeapi.co and presents Pokemon info in a cl
 
 | Universe | What it taught me |
 |:--|:--|
-| **Anime** (Naruto, Attack on Titan, Death Note, Gurren Lagann) | Never quit. Train relentlessly. Outsmart the problem. Believe in the version of yourself that ships. |
+| **Attack on Titan** | Freedom is worth fighting for. Keep moving forward, and break out of every walled-in codebase. |
+| **Dan Da Dan** | Expect the chaos: weird bugs, odd mixes of tech, and it somehow works. Stay curious and keep it fun. |
+| **One Punch Man** | Do the reps every single day. Consistency beats hype, and simple solutions beat overengineering. |
+| **Death Note** | Think several moves ahead and write things down carefully, because one wrong entry changes everything (hello, production deploys). |
 | **Mr. Robot** | Systems are only as strong as the people and assumptions behind them. Understand the whole stack. |
 | **Watch Dogs** | Everything is connected, so build with security and privacy in mind. |
 
@@ -144,9 +147,33 @@ An Android app that pulls data from pokeapi.co and presents Pokemon info in a cl
   ┌──────────────────────────────────────────────┐
   │  fsociety.dat  ->  "Question everything."    │
   │  ctOS.log      ->  "Know your system."       │
-  │  shonen.exe    ->  "Surpass your limits."    │
+  │  anime.exe     ->  "Keep moving forward."    │
   └──────────────────────────────────────────────┘
 ```
+
+### 👊 Training regimen (One Punch Man mode)
+
+![One Commit](https://img.shields.io/badge/ONE_COMMIT-ONE_BUG_DOWN-ffd400?style=for-the-badge&labelColor=d62828)
+
+```text
+  100 commits
+  100 code reviews
+  100 components refactored
+  10 km of debugging
+  ...no skipping, no overengineering.
+```
+
+<!-- Want official art here? Add your own image, e.g.:
+<img src="./assets/your-image.png" width="400" alt="..." />
+-->
+
+### 🌐 Connected city (Watch Dogs mode)
+
+<div align="center">
+  <img src="./city-network.svg" alt="Connected city network" width="100%" />
+</div>
+
+Every system is a network, so I design with security, privacy, and clean data flow in mind.
 
 ---
 
