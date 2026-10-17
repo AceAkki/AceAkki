@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,55:07121f,100:0a2a45&height=230&section=header&text=AKSHAY%20R&fontSize=72&fontColor=ffffff&stroke=00d4ff&strokeWidth=2&animation=blinking&fontAlignY=42&desc=%5B%20USER%20PROFILE%20%2F%2F%20ACCESS%20GRANTED%20%5D&descAlignY=68&descSize=16&descColor=00d4ff" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:61DBFB&height=220&section=header&text=Akshay%20R&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20React%20Native&descAlignY=58&descSize=20" width="100%" alt="header" />
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2a45,100:000000&height=40&section=header&text=SYS%3A%20ONLINE%20%20%7C%20%20NODES%3A%2012%20%20%7C%20%20TRACKING%3A%20NONE%20%20%7C%20%20STACK%3A%20REACT%20%C2%B7%20TS%20%C2%B7%20RN&fontSize=13&fontColor=00d4ff&stroke=00d4ff&strokeWidth=1&animation=blinking" width="100%" alt="status strip" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&pause=900&color=00D4FF&center=true&vCenter=true&width=800&height=60&lines=%3E+scanning+profile...;%3E+NAME%3A+Akshay+R;%3E+OCCUPATION%3A+React+%26+TypeScript+Developer;%3E+SKILL+LEVEL%3A+leveling+up+in+React+Native;%3E+THREAT+LEVEL%3A+only+to+bugs;%3E+ACCESS+GRANTED+%E2%9C%94" alt="Typing SVG" />
