@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:61DBFB&height=220&section=header&text=Akshay%20R&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20React%20Native&descAlignY=58&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=220&section=header&text=Akshay%20R&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20React%20Native&descAlignY=58&descSize=20" width="100%" alt="header" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&pause=900&color=00D4FF&center=true&vCenter=true&width=800&height=60&lines=%3E+scanning+profile...;%3E+NAME%3A+Akshay+R;%3E+OCCUPATION%3A+React+%26+TypeScript+Developer;%3E+SKILL+LEVEL%3A+leveling+up+in+React+Native;%3E+THREAT+LEVEL%3A+only+to+bugs;%3E+ACCESS+GRANTED+%E2%9C%94" alt="Typing SVG" />
 
