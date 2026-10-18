@@ -229,7 +229,6 @@ Got an idea, a project, or a bug that refuses to die? Let's team up.
 $ connection established...
 $ status: ready to build something great.
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:000000&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
