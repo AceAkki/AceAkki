@@ -168,7 +168,7 @@ An Android app that pulls data from pokeapi.co and presents Pokemon info in a cl
 <img src="./assets/your-image.png" width="400" alt="..." />
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:02060a,100:0b3d2e&height=55&section=header&text=CITY%20PROFILER%20//%20SCAN%20COMPLETE&fontSize=20&fontColor=00ff9c&animation=twinkling" width="100%" alt="profiler banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff9c,100:0b3d2e&height=55&section=header&text=CITY%20PROFILER%20//%20SCAN%20COMPLETE&fontSize=20&fontColor=00ff9c&animation=twinkling" width="100%" alt="profiler banner" />
 
 ```text
 ┌─ TARGET PROFILE ─────────────────────────────
@@ -229,6 +229,6 @@ $ connection established...
 $ status: ready to build something great.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DBFB,50:00ff9c,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
