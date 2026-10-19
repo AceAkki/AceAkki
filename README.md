@@ -17,7 +17,7 @@
 ## `> whoami`
 
 ```bash
-$ cat /etc/akshay.conf
+$ cat /etc/akshayp.conf
 
 name        = "Akshay R"
 role        = "Frontend & Mobile Developer"
