@@ -21,7 +21,7 @@ $ cat /etc/akshay.conf
 
 name        = "Akshay R"
 role        = "Frontend & Mobile Developer"
-main_stack  = ["React", "TypeScript", "JavaScript", "Node.js"]
+main_stack  = ["React", "TypeScript", "JavaScript", "Node.js", "CSS"]
 leveling_up = "React Native"          # training arc in progress
 motto       = "Turn ideas into things people actually use"
 status      = "Open to collaborations & opportunities"
