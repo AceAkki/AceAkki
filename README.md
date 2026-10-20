@@ -21,11 +21,11 @@ $ cat /etc/akshayp.conf
 
 name        = "Akshay R"
 role        = "Frontend & Mobile Developer"
-main_stack  = ["React", "TypeScript", "JavaScript", "Node.js", "CSS"]
+main_stack  = ["React", "TypeScript", "JavaScript", "Node.js", "CSS", "HTML"]
 leveling_up = "React Native"          # training arc in progress
 motto       = "Turn ideas into things people actually use"
 status      = "Open to collaborations & opportunities"
-power_level = "IT'S OVER 9000"        # (only after coffee)
+power_level = "IT'S OVER 9000"        # (only after coffee and samosas)
 ```
 
 I build fast, clean, user-focused web and mobile apps. Right now I'm in my **React Native training arc**, taking what I know from the web and pushing it onto Android devices.
