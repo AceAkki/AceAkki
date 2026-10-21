@@ -172,7 +172,7 @@ An Android app that pulls data from pokeapi.co and presents Pokemon info in a cl
 
 ```text
 ┌─ TARGET PROFILE ─────────────────────────────
-│ NAME ........ Akshay R
+│ NAME ........ Akshay R P
 │ OCCUPATION .. Frontend & Mobile Developer
 │ TOP SKILLS .. React · TypeScript · React Native
 │ CURRENT OP .. Porting dashboard to mobile
