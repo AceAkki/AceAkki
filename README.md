@@ -62,7 +62,7 @@ I build fast, clean, user-focused web and mobile apps. Right now I'm in my **Rea
 </div>
 
 <details>
-<summary><b>Side quests (also unlocked)</b></summary>
+<summary><b>Side quests (also unlocked!)</b></summary>
 <br>
 
 [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
