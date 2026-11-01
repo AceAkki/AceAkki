@@ -87,6 +87,7 @@ I build fast, clean, user-focused web and mobile apps. Right now I'm in my **Rea
 **Status:** `IN PROGRESS`, boss fight ahead
 
 Migrating my dashboard from web to React Native. Project scaffold and the Android development build are in place, and feature work is underway.
+Adding some more features. 
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
