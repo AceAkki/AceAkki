@@ -168,7 +168,7 @@ An Android app that pulls data from pokeapi.co and presents Pokemon info in a cl
 <img src="./assets/your-image.png" width="400" alt="..." />
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8B0000&height=55&section=header&text=CITY%20PROFILER%20//%20SCAN%20COMPLETE&fontSize=20&fontColor=FF0000&animation=twinkling" width="100%" alt="profiler banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00E5FF&height=55&section=header&text=CITY%20PROFILER%20//%20SCAN%20COMPLETE&fontSize=20&fontColor=FF0000&animation=twinkling" width="100%" alt="profiler banner" />
 
 
 ```text
@@ -228,6 +228,6 @@ Got an idea, a project, or a bug that refuses to die? Let's team up.
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&height=60&repeat=false&lines=%24+connection+established...;%24+status%3A+ready+to+build+something+great.%20%E2%96%8C" alt="Typing SVG" />
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:000000&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:00E5FF,100:5CF0FF&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
